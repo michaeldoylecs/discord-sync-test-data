@@ -81,3 +81,4 @@ regression tests while this module is loaded, which should not fail.
 This will verify that the presence of the additional types and
 operators will not cause changes in the interpretation of expressions
 involving the existing types and operators.
+
