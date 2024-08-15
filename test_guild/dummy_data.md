@@ -1,4 +1,4 @@
-# Unsigne and other extra integer types for PostgreSQL
+# Unsigned and other extra integer types for PostgreSQL
 
 This extension provides additional integer types for PostgreSQL:
 
